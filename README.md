@@ -5,5 +5,3 @@
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 [![mail](https://img.shields.io/badge/mail-loaki.dev%40gmail.com-lightgrey?style=for-the-badge&logo=gmail)](https://loaki.dev@gmail.com)
-
-![test](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&title_color=black&layout=compact&hide_border=true)
