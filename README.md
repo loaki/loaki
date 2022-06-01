@@ -4,6 +4,6 @@
 
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=loaki&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![stats](https://github-readme-stats.vercel.app/api?username=loaki&theme=synthwave&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&theme=synthwave)
