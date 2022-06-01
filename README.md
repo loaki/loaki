@@ -3,3 +3,5 @@
 ![languages](https://github.com/loaki/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+
+![mail](https://img.shields.io/badge/gmail-loaki.dev%40gmail.com-red)
