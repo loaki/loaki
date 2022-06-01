@@ -5,3 +5,9 @@
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 [![mail](https://img.shields.io/badge/mail-loaki.dev%40gmail.com-lightgrey?style=for-the-badge&logo=gmail)](https://loaki.dev@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loaki)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
