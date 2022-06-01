@@ -4,4 +4,4 @@
 
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-![mail](https://img.shields.io/badge/mail-loaki.dev%40gmail.com-grey)
+![mail](https://img.shields.io/badge/mail-loaki.dev%40gmail.com-white)
