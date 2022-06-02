@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loaki&show_icons=true&theme=dracula&bg_color=21262d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&theme=dracula&hide=tcl&layout=compact&langs_count=10&bg_color=0d1117&border_color=42464b&border_size=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&theme=dracula&hide=tcl&layout=compact&langs_count=10&bg_color=0d1117&border_color=42464b&title_color=58a6ff)
