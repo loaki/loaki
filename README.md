@@ -6,4 +6,4 @@
 
 [![mail](https://img.shields.io/badge/mail-loaki.dev%40gmail.com-lightgrey?style=for-the-badge&logo=gmail)](https://loaki.dev@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&layout=compact&theme=onedark)
