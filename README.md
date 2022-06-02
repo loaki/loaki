@@ -5,6 +5,6 @@
 
 [![mail](https://img.shields.io/badge/mail-loaki.dev%40gmail.com-21262d?LabelColor=363b42&style=for-the-badge&logo=gmail)](mailto:loaki.dev@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loaki&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loaki&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&theme=gruvbox&hide=tcl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaki&theme=cobalt&hide=tcl&layout=compact&langs_count=10)
