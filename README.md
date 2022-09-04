@@ -1,3 +1,5 @@
+![capsule](https://capsule-render.vercel.app/api?type=waving&color=2c98ff&animation=fadeIn&text=Hello%20there)
+
 ![42](https://github.com/loaki/github_stats/blob/master/generated/42badge.svg)
 
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only)
