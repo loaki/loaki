@@ -1,4 +1,4 @@
-![capsule](https://capsule-render.vercel.app/api?type=waving&color=2c98ff&animation=fadeIn&text=Hello%20there)
+![capsule](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&text=Hello%20there&fontColor=c9d1d9&fontSize=24&fontAlignY=40&height=150)
 
 ![42](https://github.com/loaki/github_stats/blob/master/generated/42badge.svg)
 
