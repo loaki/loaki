@@ -1,5 +1,5 @@
 ![capsule](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&text=Hello%20there&fontColor=c9d1d9&fontSize=24&fontAlignY=35&height=150)
-![42](https://github.com/loaki/github_stats/blob/master/generated/42level.svg)
+![42](https://github.com/loaki/github_stats/blob/master/generated/42level_save.png)
 
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![overview](https://github.com/loaki/github_stats/blob/master/generated/overview.svg#gh-light-mode-only)
